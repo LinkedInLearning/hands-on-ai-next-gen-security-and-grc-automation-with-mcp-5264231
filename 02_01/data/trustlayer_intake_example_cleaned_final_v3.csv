@@ -1,0 +1,32 @@
+﻿Unnamed: 0,Subject,Date,Body,filepath,Source
+0,Company Legal Name,3/26/25,"TrustLayer AI, Inc.",none,Intake
+1,Company Website,3/26/25,https://www.trustlayer.ai,none,Intake
+2,Company Headquarters Address,3/26/25,"1234 Market Street, New York, NY, 10028",none,Intake
+3,Primary Contact Name,3/26/25,Jane Doe,none,Intake
+4,Primary Contact Email,3/26/25,jane.doe@trustlayer.ai,none,Intake
+5,Industry,3/26/25,SaaS,none,Intake
+6,Size of Organization,3/26/25,11Ð50,none,Intake
+7,Compliance Framework(s) of Interest,3/26/25,SOC 2,none,Intake
+8,Brief Business Description,3/26/25,TrustLayer AI provides automated risk and compliance monitoring software for mid-sized businesses and enterprises.,none,Intake
+9,"Is your offering SaaS, PaaS, IaaS, or On-Prem?",3/26/25,SaaS,none,Intake
+10,Describe services/products in-scope for SOC 2/NIST CSF,3/26/25,"Our core SaaS platform for risk and compliance automation, which includes audit logs, vendor risk tracking, and control validation tools.",none,Intake
+11,Hosting Providers Used,3/26/25,AWS,none,Intake
+12,Regions Where Systems Are Hosted,3/26/25,US-East,none,Intake
+13,Subservice Providers,3/26/25,none,none,Intake
+14,Upload system diagram or data flow,3/26/25,Uploaded network_diagram.pdf,network_diagram.png,Intake
+15,Does your system process Personally Identifiable Information (PII)?,3/26/25,No,none,Intake
+16,Types of PII Processed,3/26/25,none,none,Intake
+17,Do you encrypt data at rest and in transit?,3/26/25,Yes,none,Intake
+18,Do you use Role-Based Access Control (RBAC)?,3/26/25,Yes,none,Intake
+19,Upload security policy documents,3/26/25,Uploaded access_control_policy.pdf,security_response_plan_policy.pdf,Intake
+20,Do you enforce MFA for employee access?,3/26/25,Yes,none,Intake
+21,Do you have a CISO or dedicated security/compliance lead?,3/26/25,Yes,none,Intake
+22,Have you completed a risk assessment?,3/26/25,Yes,none,Intake
+23,Upload risk assessment or summary,3/26/25,Uploaded risk-management-policy.pdf,Trust Layer NIST-CSF Security Posture Assessment 2024.pdf,Intake
+24,Have you completed a pen test or vulnerability assessment in the last 12 months?,3/26/25,Yes,none,Intake
+25,Upload pen test or vulnerability scan report,3/26/25,Uploaded Sample-Penetration-Test-Report-PurpleSec.pdf,Penetration-Test-Report.pdf,Intake
+26,Trust Services Criteria In-Scope,3/26/25,"Security, Availability, Confidentiality, Processing Integrity",none,Intake
+27,Are you subject to regulatory requirements?,3/26/25,Yes,none,Intake
+28,List applicable regulations,3/26/25,NYSHIELD,none,Intake
+29,Prior assessments completed,3/26/25,none,none,Intake
+30,Upload completed checklists/reports,3/26/25,SOC2-Checklist.pdf,soc2_checklist.pdf,Intake
