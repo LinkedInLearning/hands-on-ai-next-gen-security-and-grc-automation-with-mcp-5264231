@@ -20,6 +20,10 @@ This repository provides a secure, modular implementation of the **Model Context
 - **Input Validation**: All server endpoints validate input data to prevent malformed queries and injection risks.
 - **Forensic Logging**: Every event/query is timestamped and logged to enable incident response and auditing.
 - **No Hardcoded Secrets**: All sensitive configuration is environment-managed.
+- Never expose MCP endpoints to the internet without authentication.
+- Use HTTPS/TLS for all inter-server and client communications.
+- Log and monitor all query activity for anomalous behavior.
+- Regularly review and patch all dependencies.
 
 ---
 
@@ -35,3 +39,14 @@ graph TD;
     C --> G[MITRE ATT&CK DB/CSV];
     D --> H[Security Events/Logs];
     E --> I[Threat Reports & PDFs];
+
+---
+## References
+[MITRE ATT&CK® Framework]([url](https://attack.mitre.org/
+))
+
+[Anthropic: Model Context Protocol]([url](https://docs.anthropic.com/claude/docs/model-context-protocol))
+
+[Recent MCP Security Analysis]([url](https://arxiv.org/abs/2504.03767))
+
+---
