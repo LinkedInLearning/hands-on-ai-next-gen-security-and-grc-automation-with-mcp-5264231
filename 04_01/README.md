@@ -27,6 +27,17 @@ This repository provides a secure, modular implementation of the **Model Context
 
 ---
 
+## References
+[MITRE ATT&CK® Framework]([url](https://attack.mitre.org/
+))
+
+[Anthropic: Model Context Protocol]([url](https://docs.anthropic.com/claude/docs/model-context-protocol))
+
+[Recent MCP Security Analysis]([url](https://arxiv.org/abs/2504.03767))
+
+
+---
+
 ## 🏗️ System Overview
 
 ```mermaid
@@ -40,13 +51,4 @@ graph TD;
     D --> H[Security Events/Logs];
     E --> I[Threat Reports & PDFs];
 
----
-## References
-[MITRE ATT&CK® Framework]([url](https://attack.mitre.org/
-))
 
-[Anthropic: Model Context Protocol]([url](https://docs.anthropic.com/claude/docs/model-context-protocol))
-
-[Recent MCP Security Analysis]([url](https://arxiv.org/abs/2504.03767))
-
----
