@@ -113,7 +113,7 @@ _Example: The notebook will show how a GRC policy database or ticketing tool bec
 
 ---
 
-## Key Files (If Provided)
+## Key Files 
 - **`mcp_memory_server.py`**: Example MCP-compliant memory server (audit log store)
 - **`full_mcp_notebook.ipynb`**: This interactive walkthrough and code samples
 - **Additional scripts**: (e.g., `mcp_grc_server.py`) may provide real-world tool integration or GRC workflows
