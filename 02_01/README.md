@@ -36,6 +36,10 @@ You’ll explore:
 Each code block is fully annotated. If you run the notebook, you’ll see live outputs and be able to modify parameters for experimentation.
 
 ---
+<!-- Architecture diagram -->
+![MCP Architecture & GRC Flow](diagram.png)
+
+---
 
 ## Notebook Sections and Code Explanations
 
