@@ -4,7 +4,7 @@ This repository provides a secure, modular implementation of the **Model Context
 
 ---
 
-## 📚 Key Features
+##  Key Features
 
 - **MITRE-centric RAG Architecture**: Retrieve, map, and synthesize threat events, alerts, and logs against MITRE ATT&CK techniques at inference time.
 - **Microservices via MCP**: Modular servers for memory (incident history), MITRE technique/context search, and orchestration.
@@ -13,7 +13,7 @@ This repository provides a secure, modular implementation of the **Model Context
 
 ---
 
-## 🛡️ Security Principles in the MITRE Pipeline
+##  Security Principles in the MITRE Pipeline
 
 - **Separation of Duties**: Each MCP server is dedicated (memory, MITRE lookup, PDF/IOC search), reducing lateral movement risk.
 - **Transport & Protocol Security**: JSON-RPC used to keep LLM/prompt logic separated from transport, minimizing prompt injection and tooling abuse.
@@ -36,7 +36,7 @@ This repository provides a secure, modular implementation of the **Model Context
 
 ---
 
-## 🏗️ System Overview
+##  System Overview
 
 ```mermaid
 graph TD;
